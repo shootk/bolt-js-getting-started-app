@@ -1,7 +1,7 @@
 {
-  "name": "bolt-js-getting-started-app",
+  "name": "slack-salesforce-connect-app",
   "version": "2.0.0",
-  "description": "Getting Started ⚡️ Bolt for JavaScript",
+  "description": "Connect slack and Salesforce",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",

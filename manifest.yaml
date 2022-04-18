@@ -1,5 +1,5 @@
 display_information:
-  name: Getting Started Bolt App
+  name: Connect Slack & Salesforce
 features:
   app_home:
     home_tab_enabled: false
